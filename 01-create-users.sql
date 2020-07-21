@@ -13,3 +13,8 @@
 -- | name       | password |
 -- |------------|----------|
 -- | data_admin | ik2fiDri |
+
+
+create user aa_times with password '6g73WE2V';
+create user project_management_app with password 'Q3HphPJ8';
+create user data_admin with password 'ik2fiDri' superuser;
